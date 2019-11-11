@@ -41,7 +41,7 @@ about:
     It is oriented toward use with models generating very large datasets on
     supercomputers, as well as with graphics workstations used for analysis and
     display of smaller subsets of data.
-  dev_url: http://github.com/CDAT/libdrs
+  dev_url: http://github.com/cdat/libdrs
 
 extra:
   recipe-maintainers:
